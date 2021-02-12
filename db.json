@@ -1,6 +1,16 @@
 {
-	"data" : 
+	"characters" : 
 	[
-		
+		{
+			"name" : "azertyu",
+			"base type" : "free for all",
+			"PV" : 5,
+			"Mana" : 5,
+			"Physique" : 50,
+			"Mental" : 50,
+			"Social" : 50,
+			"Race" : "Empire",
+			"Extraction" : "Paysans"
+		}
 	]
 }
